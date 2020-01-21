@@ -1,0 +1,17 @@
+.countryCard{
+    width:240px;
+    font-size:30px;
+    margin-top:20px;
+    float:left;
+
+}
+.cardDiv{
+    display:flex;
+    flex-wrap:nowrap;
+}
+.countryDetails p{
+    font-size: 10px;
+}
+.learnMore button{
+    font-size:10px;
+}
